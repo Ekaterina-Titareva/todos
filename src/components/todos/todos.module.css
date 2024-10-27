@@ -1,0 +1,20 @@
+.container {
+    padding: 10%;
+}
+
+.add_button {
+    margin-left: 8px ;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.delete_button {
+    padding: 0;
+    border: none;
+    width: 20px;
+    height: 20px;
+    background: no-repeat var(--delete-icon) center / cover;
+}
